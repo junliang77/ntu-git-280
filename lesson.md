@@ -14,4 +14,6 @@ junliang77
 
 My Favorite 3 Programming Languages
 --------------------------------
-C#
+- C#
+- Ruby
+- Python
